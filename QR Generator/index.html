@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ko-KR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QR Code Generator | astinaus</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1>QR CODE GENERATOR</h1>
+
+    <section>
+        <div class="row">
+            <input type="color" id="light" value="#ffffff">
+            <input type="color" id="dark">
+            <select class="sizes">
+                <option value="100">100x100</option>
+                <option value="200">200x200</option>
+                <option value="300">300x300</option>
+                <option selected value="400">400x400</option>
+                <option value="500">500x500</option>
+            </select>
+        </div>
+        <input type="text" class="qr-text" placeholder="Enter QR Text">
+        <div id="qr-code"></div>
+        <div class="action-container">
+            <a href="#" class="download btn" download="QRCode">
+                <span>Download</span>
+                <img src="./img/download.svg" alt="Download Button">
+            </a>
+        </div>
+    </section>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>
