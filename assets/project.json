@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Color Flipper",
+      "description": "A simple color flipper app",
+      "image": "./assets/images/colorflipper.png",
+      "url": "https://astinaus.github.io/ToyProject/Color-Flipper/"
+    },
+    {
+      "id": 2,
+      "name": "Slider",
+      "description": "A simple slider app",
+      "image": "./assets/images/slider.png",
+      "url": "https://astinaus.github.io/ToyProject/Slider/"
+    },
+    {
+      "id": 3,
+      "name": "QR Generator",
+      "description": "A simple QR Generator app",
+      "image": "./assets/images/qrgenerator.png",
+      "url": "https://astinaus.github.io/ToyProject/QR-Generator/"
+    }
+  ]
+}
