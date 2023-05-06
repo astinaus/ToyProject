@@ -15,7 +15,7 @@ async function renderProject() {
 
     img.src = el.image;
     img.alt = el.name;
-    h2.textContent = el.name;
+    h2.textContent = el.id + " - " + el.name;
     p.textContent = el.description;
     a.href = el.url;
     a.target = "_blank";
