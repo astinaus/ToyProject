@@ -17,7 +17,7 @@ async function renderProject() {
     img.alt = el.name;
     h2.textContent = el.name;
     p.textContent = el.description;
-    a.href = el.link;
+    a.href = el.url;
     a.target = "_blank";
     a.textContent = "View Project";
 
