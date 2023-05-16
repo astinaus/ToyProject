@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './index.css';
-import DisplayWeather from './Components/DisplayWeather';
+import DisplayWeather from './components/DisplayWeather';
 
 function App() {
   const [inptLocation, setInptLocation] = useState('');
