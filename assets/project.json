@@ -33,7 +33,7 @@
       "name": "Weather Widget",
       "description": "A simple weather widget app",
       "image": "./assets/images/weatherwidget.png",
-      "url": "https://astinaus.github.io/ToyProject/weather-widget/"
+      "url": "https://astinaus.github.io/weather-widget/"
     }
   ]
 }
