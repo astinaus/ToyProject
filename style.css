@@ -41,6 +41,10 @@ img {
   margin: 2rem 0;
 }
 
+.container {
+  margin-bottom: 50px;
+}
+
 .project-list {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
