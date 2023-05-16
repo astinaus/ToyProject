@@ -19,3 +19,9 @@
 ## Countdown
 
 ### https://astinaus.github.io/ToyProject/Countdown/
+
+---
+
+## Weather Widget
+
+### https://astinaus.github.io/ToyProject/weather-widget/

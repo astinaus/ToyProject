@@ -27,6 +27,13 @@
       "description": "A simple countdown app",
       "image": "./assets/images/countdown.png",
       "url": "https://astinaus.github.io/ToyProject/Countdown/"
+    },
+    {
+      "id": 5,
+      "name": "Weather Widget",
+      "description": "A simple weather widget app",
+      "image": "./assets/images/weatherwidget.png",
+      "url": "https://astinaus.github.io/ToyProject/weather-widget/"
     }
   ]
 }
