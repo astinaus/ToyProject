@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ToyProject/weather-widget/static/css/main.035b6511.css",
+    "main.js": "/ToyProject/weather-widget/static/js/main.6a010b55.js",
+    "index.html": "/ToyProject/weather-widget/index.html",
+    "main.035b6511.css.map": "/ToyProject/weather-widget/static/css/main.035b6511.css.map",
+    "main.6a010b55.js.map": "/ToyProject/weather-widget/static/js/main.6a010b55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.035b6511.css",
+    "static/js/main.6a010b55.js"
+  ]
+}
