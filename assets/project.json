@@ -20,6 +20,13 @@
       "description": "A simple QR Generator app",
       "image": "./assets/images/qrgenerator.png",
       "url": "https://astinaus.github.io/ToyProject/QR-Generator/"
+    },
+    {
+      "id": 4,
+      "name": "Countdown",
+      "description": "A simple countdown app",
+      "image": "./assets/images/countdown.png",
+      "url": "https://astinaus.github.io/ToyProject/Countdown/"
     }
   ]
 }
