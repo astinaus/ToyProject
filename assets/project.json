@@ -34,6 +34,13 @@
       "description": "A simple weather widget app",
       "image": "./assets/images/weatherwidget.png",
       "url": "https://astinaus.github.io/weather-widget/"
+    },
+    {
+      "id": 6,
+      "name": "Scroll",
+      "description": "A simple scroll app",
+      "image": "./assets/images/scroll.png",
+      "url": "https://astinaus.github.io/ToyProject/Scroll"
     }
   ]
 }
