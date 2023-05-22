@@ -213,6 +213,7 @@ nav {
   width: 100%;
   background: var(--clr-white);
   box-shadow: var(--light-shadow);
+  z-index: 100;
 }
 .fixed-nav .links a {
   color: var(--clr-grey-1);
