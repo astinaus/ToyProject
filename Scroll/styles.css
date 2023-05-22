@@ -88,6 +88,13 @@ img:not(.logo) {
 img {
   display: block;
 }
+button {
+  border: none;
+  background: none;
+  width: 48px;
+  cursor: pointer;
+  padding: 60px 1px;
+}
 
 h1,
 h2,
@@ -301,7 +308,7 @@ nav {
 header {
   min-height: 100vh;
   background: linear-gradient(rgba(63, 208, 212, 0.5), rgba(0, 0, 0, 0.7)),
-    url(./hero-bcg.jpeg) center/cover no-repeat;
+    url(./images/about1.png) center/cover no-repeat;
 }
 .banner {
   min-height: 100vh;
@@ -337,6 +344,44 @@ header {
 #tours {
   height: 80vh;
 }
+
+#tours {
+  position: relative;
+}
+
+.carousel {
+  margin: 40px auto 0;
+  width: 500px;
+  overflow: hidden;
+}
+
+.carousel__inner {
+  display: flex;
+  transform: translate3d(0, 0, 0);
+  transition: transform 0.2s;
+}
+
+.carousel img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.next,
+.prev {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.next {
+  right: 30px;
+}
+
+.prev {
+  left: 30px;
+}
+
 #services {
   background: var(--clr-white);
 }
