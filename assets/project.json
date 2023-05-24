@@ -41,6 +41,13 @@
       "description": "A simple scroll app",
       "image": "./assets/images/scroll.png",
       "url": "https://astinaus.github.io/ToyProject/Scroll"
+    },
+    {
+      "id": 7,
+      "name": "Lorem Ipsum Generator",
+      "description": "A simple lorem ipsum generator app",
+      "image": "./assets/images/lorem.png",
+      "url": "https://astinaus.github.io/ToyProject/Lorem-Maker"
     }
   ]
 }
