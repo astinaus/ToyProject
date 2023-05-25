@@ -341,9 +341,12 @@ header {
   color: var(--clr-secondary);
 }
 #about,
-#services,
-#tours {
+#services {
   height: 80vh;
+}
+
+#tours {
+  height: 90vh;
 }
 
 #tours {
