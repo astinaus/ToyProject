@@ -48,6 +48,13 @@
       "description": "A simple lorem ipsum generator app",
       "image": "./assets/images/lorem.png",
       "url": "https://astinaus.github.io/ToyProject/Lorem-Maker"
+    },
+    {
+      "id": 8,
+      "name": "Image Slider",
+      "description": "A simple image slider app",
+      "image": "./assets/images/slider.png",
+      "url": "https://astinaus.github.io/ToyProject/Slider"
     }
   ]
 }
