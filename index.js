@@ -3,6 +3,7 @@ const projectList = document.querySelector('.project-list');
 async function renderProject() {
   try {
     const response = await fetch('./assets/project.json');
+    if (!response) throw new Error('응답이 없습니다.');
     const data = await response.json();
     const frag = document.createDocumentFragment();
     data.projects.forEach((el) => {
@@ -30,8 +31,8 @@ async function renderProject() {
       frag.appendChild(li);
     });
     projectList.appendChild(frag);
-  } catch {
-    console.log('Error');
+  } catch (error) {
+    console.log('에러가 발생했습니다.', error);
   }
 }
 
