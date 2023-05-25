@@ -10,9 +10,9 @@
     {
       "id": 2,
       "name": "Slider",
-      "description": "A simple slider app",
-      "image": "./assets/images/slider.png",
-      "url": "https://astinaus.github.io/ToyProject/Slider/"
+      "description": "A simple review app",
+      "image": "./assets/images/review.png",
+      "url": "https://astinaus.github.io/ToyProject/Review/"
     },
     {
       "id": 3,
