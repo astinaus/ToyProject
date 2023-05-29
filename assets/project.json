@@ -55,6 +55,13 @@
       "description": "A simple image slider app",
       "image": "./assets/images/slider.png",
       "url": "https://astinaus.github.io/ToyProject/Slider"
+    },
+    {
+      "id": 9,
+      "name": "Music Player",
+      "description": "A simple music player app",
+      "image": "./assets/images/music.png",
+      "url": "https://astinaus.github.io/MusicPlayerApp"
     }
   ]
 }

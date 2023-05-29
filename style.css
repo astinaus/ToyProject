@@ -62,7 +62,8 @@ img {
 .project-item img {
   border: 1px solid;
   border-radius: 3px;
-  max-height: 350px;
+  height: 350px;
+  width: 100%;
 }
 
 .project-item h2 {
